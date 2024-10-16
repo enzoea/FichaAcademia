@@ -1,6 +1,8 @@
 # Ficha de Treino para Academia
 Este projeto é uma aplicação de Ficha de Treino para Academia desenvolvida em React Native, que permite ao usuário listar e organizar os exercícios a serem realizados em um treino. A aplicação oferece uma interface simples e prática para gerenciar a rotina de treinos na academia.
 
+https://github.com/user-attachments/assets/d46d23dc-4b0b-4db7-a0e2-25b65a89b414
+
 ## Funcionalidades
 Cadastro de Exercícios: Permite adicionar novos exercícios à ficha de treino, com detalhes como nome do exercício, número de séries e repetições.
 Listagem de Exercícios: Exibe todos os exercícios cadastrados para um determinado treino.
